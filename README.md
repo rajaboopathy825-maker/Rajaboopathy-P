@@ -1,53 +1,66 @@
 # Hi, I'm Rajaboopathy 👋
 
+<h3 align="left">💫 About Me:</h3>
 
-💫 About Me:
-- 🛠️ Currently working on Django & HTML projects
-- 📚 Learning Angular & AWS deployment
-- 💬 Ask me about Web Development
-- 📫 Reach me at: rajaboopathy825@gmail.com
+<p align="left">
+- 🛠️ Currently working on Django & HTML projects <br>
+- 📚 Learning Angular & AWS deployment <br>
+- 💬 Ask me about Web Development <br>
+- 📫 Reach me at: rajaboopathy825@gmail.com <br>
 - ⚡ Persistent problem solver
+</p>
 
+---
 
-💻 Tech Stack:
+<h3 align="left">💻 Tech Stack:</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-thebadge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" />
+</div>
 
-📊 GitHub Stats:
+---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajaboopathy825-maker&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaboopathy825-maker&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaboopathy825-maker&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaboopathy825-maker&layout=compact&theme=radical)
-
-
-
+---
 
 ![snake](https://github.com/user-attachments/assets/a34b4316-9c5e-40ca-a58a-59f5727f2b36)
 
+---
 
-🌐 Connect with me
+<h3 align="left">🌐 Connect with me:</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaboopathy825@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajaboopathy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajaboopathy)
+<p align="left">
+  <a href="mailto:rajaboopathy825@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/rajaboopathy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.instagram.com/rajaboopathy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo" />
+  </a>
+</p>
 
-✍️ Random Dev Quote
+---
+
+<h3 align="left">✍️ Random Dev Quote:</h3>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
-
-
-
+[![](https://visitcount.itsvg.in/api?id=rajaboopathy825-maker&icon=8&color=0)](https://visitcount.itsvg.in)
