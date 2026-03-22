@@ -32,16 +32,18 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajaboopathy-P&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaboopathy-P&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
----
+###
 
-![snake](https://github.com/user-attachments/assets/a34b4316-9c5e-40ca-a58a-59f5727f2b36)
+<img src="https://raw.githubusercontent.com/Rajaboopathy-P/Rajaboopathy-P/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 <h3 align="left">🌐 Connect with me:</h3>
 
