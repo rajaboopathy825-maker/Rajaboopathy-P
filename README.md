@@ -48,24 +48,14 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-   <a href="mailto:yourmail@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail logo"
-         style="transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+   <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/yourprofile" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"
-         style="transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
- <a href="https://www.instagram.com/yourprofile" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo"
-         style="transition: transform 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)';" 
-         onmouseout="this.style.transform='scale(1)';"/>
+  <a href="https://www.instagram.com/yourprofile">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
 
