@@ -48,14 +48,24 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-  <a href="mailto:rajaboopathy825@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo" />
+   <a href="mailto:yourmail@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail logo"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://linkedin.com/in/rajaboopathy-P" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo" />
+
+  <a href="https://www.linkedin.com/in/yourprofile" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
-  <a href="https://www.instagram.com/boopxth_y" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo" />
+ <a href="https://www.instagram.com/yourprofile" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="instagram logo"
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.2)';" 
+         onmouseout="this.style.transform='scale(1)';"/>
   </a>
 </p>
 
