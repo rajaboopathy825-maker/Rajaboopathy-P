@@ -51,7 +51,7 @@
    <a href="rajaboopathy825@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://[linkedin.com/in/rajaboopathy-p" target="_blank">
+  <a href="https://linkedin.com/in/rajaboopathy-p" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/boopxth_y" target="_blank">
