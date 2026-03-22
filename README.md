@@ -1,4 +1,7 @@
 # Hi, I'm Rajaboopathy 👋
+<div align="center">
+  <img src="hello.gif" alt="Hello GIF" width="200"/>
+</div>
 
 
 <h3 align="left">💫 About Me:</h3>
